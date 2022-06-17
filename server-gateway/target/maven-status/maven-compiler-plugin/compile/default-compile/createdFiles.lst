@@ -1,0 +1,4 @@
+com\atguigu\wms\gateway\filter\AuthGlobalFilter.class
+com\atguigu\wms\gateway\config\RedisConfig.class
+com\atguigu\wms\ServerGatewayApplication.class
+com\atguigu\wms\gateway\config\CorsConfig.class

@@ -1,0 +1,3 @@
+com\atguigu\wms\common\config\MQConfig.class
+com\atguigu\wms\common\service\RabbitService.class
+com\atguigu\wms\common\constant\MqConst.class

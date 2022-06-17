@@ -1,0 +1,14 @@
+D:\atguigu\wms-master\wms-parent\service-client\service-base-client\src\main\java\com\atguigu\wms\base\client\StoreshelfInfoFeignClient.java
+D:\atguigu\wms-master\wms-parent\service-client\service-base-client\src\main\java\com\atguigu\wms\base\client\DictFeignClient.java
+D:\atguigu\wms-master\wms-parent\service-client\service-base-client\src\main\java\com\atguigu\wms\base\client\impl\DictDegradeFeignClient.java
+D:\atguigu\wms-master\wms-parent\service-client\service-base-client\src\main\java\com\atguigu\wms\base\client\impl\GoodsInfoDegradeFeignClient.java
+D:\atguigu\wms-master\wms-parent\service-client\service-base-client\src\main\java\com\atguigu\wms\base\client\WareConfigFeignClient.java
+D:\atguigu\wms-master\wms-parent\service-client\service-base-client\src\main\java\com\atguigu\wms\base\client\impl\StoreareaInfoDegradeFeignClient.java
+D:\atguigu\wms-master\wms-parent\service-client\service-base-client\src\main\java\com\atguigu\wms\base\client\StoreareaInfoFeignClient.java
+D:\atguigu\wms-master\wms-parent\service-client\service-base-client\src\main\java\com\atguigu\wms\base\client\WarehouseInfoFeignClient.java
+D:\atguigu\wms-master\wms-parent\service-client\service-base-client\src\main\java\com\atguigu\wms\base\client\impl\StoreshelfInfoDegradeFeignClient.java
+D:\atguigu\wms-master\wms-parent\service-client\service-base-client\src\main\java\com\atguigu\wms\base\client\GoodsInfoFeignClient.java
+D:\atguigu\wms-master\wms-parent\service-client\service-base-client\src\main\java\com\atguigu\wms\base\client\impl\StorehouseInfoDegradeFeignClient.java
+D:\atguigu\wms-master\wms-parent\service-client\service-base-client\src\main\java\com\atguigu\wms\base\client\impl\WareConfigDegradeFeignClient.java
+D:\atguigu\wms-master\wms-parent\service-client\service-base-client\src\main\java\com\atguigu\wms\base\client\StorehouseInfoFeignClient.java
+D:\atguigu\wms-master\wms-parent\service-client\service-base-client\src\main\java\com\atguigu\wms\base\client\impl\WarehouseInfoDegradeFeignClient.java

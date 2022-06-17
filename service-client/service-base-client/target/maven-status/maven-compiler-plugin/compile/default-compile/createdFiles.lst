@@ -1,0 +1,14 @@
+com\atguigu\wms\base\client\impl\DictDegradeFeignClient.class
+com\atguigu\wms\base\client\impl\WareConfigDegradeFeignClient.class
+com\atguigu\wms\base\client\impl\StoreshelfInfoDegradeFeignClient.class
+com\atguigu\wms\base\client\StoreareaInfoFeignClient.class
+com\atguigu\wms\base\client\DictFeignClient.class
+com\atguigu\wms\base\client\WarehouseInfoFeignClient.class
+com\atguigu\wms\base\client\StoreshelfInfoFeignClient.class
+com\atguigu\wms\base\client\impl\GoodsInfoDegradeFeignClient.class
+com\atguigu\wms\base\client\impl\StorehouseInfoDegradeFeignClient.class
+com\atguigu\wms\base\client\impl\StoreareaInfoDegradeFeignClient.class
+com\atguigu\wms\base\client\GoodsInfoFeignClient.class
+com\atguigu\wms\base\client\WareConfigFeignClient.class
+com\atguigu\wms\base\client\StorehouseInfoFeignClient.class
+com\atguigu\wms\base\client\impl\WarehouseInfoDegradeFeignClient.class

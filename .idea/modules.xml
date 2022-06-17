@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common-util/common-util.iml" filepath="$PROJECT_DIR$/common/common-util/common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model/model.iml" filepath="$PROJECT_DIR$/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/rabbit-util/rabbit-util.iml" filepath="$PROJECT_DIR$/common/rabbit-util/rabbit-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-gateway/server-gateway.iml" filepath="$PROJECT_DIR$/server-gateway/server-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service-acl/service-acl.iml" filepath="$PROJECT_DIR$/service/service-acl/service-acl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-client/service-acl-client/service-acl-client.iml" filepath="$PROJECT_DIR$/service-client/service-acl-client/service-acl-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service-base/service-base.iml" filepath="$PROJECT_DIR$/service/service-base/service-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-client/service-base-client/service-base-client.iml" filepath="$PROJECT_DIR$/service-client/service-base-client/service-base-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-client/service-client.iml" filepath="$PROJECT_DIR$/service-client/service-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service-inbound/service-inbound.iml" filepath="$PROJECT_DIR$/service/service-inbound/service-inbound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service-inventory/service-inventory.iml" filepath="$PROJECT_DIR$/service/service-inventory/service-inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-client/service-inventory-client/service-inventory-client.iml" filepath="$PROJECT_DIR$/service-client/service-inventory-client/service-inventory-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service-outbound/service-outbound.iml" filepath="$PROJECT_DIR$/service/service-outbound/service-outbound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-client/service-outbound-client/service-outbound-client.iml" filepath="$PROJECT_DIR$/service-client/service-outbound-client/service-outbound-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/service-util/service-util.iml" filepath="$PROJECT_DIR$/common/service-util/service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/spring-security/spring-security.iml" filepath="$PROJECT_DIR$/common/spring-security/spring-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wms-parent.iml" filepath="$PROJECT_DIR$/wms-parent.iml" />
+    </modules>
+  </component>
+</project>

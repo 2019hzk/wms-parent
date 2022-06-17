@@ -1,0 +1,2 @@
+com\atguigu\wms\acl\client\AdminFeignClient.class
+com\atguigu\wms\acl\client\impl\AdminDegradeFeignClient.class

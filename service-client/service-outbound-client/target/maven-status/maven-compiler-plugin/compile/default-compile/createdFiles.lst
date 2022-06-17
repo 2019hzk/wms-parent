@@ -1,0 +1,2 @@
+com\atguigu\wms\outbound\client\impl\OutboundDegradeFeignClient.class
+com\atguigu\wms\outbound\client\OutboundFeignClient.class

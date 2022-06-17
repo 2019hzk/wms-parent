@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service-outbound" />
+        <module name="common-util" />
+        <module name="service-base" />
+        <module name="service-util" />
+        <module name="spring-security" />
+        <module name="service-base-client" />
+        <module name="service-inventory-client" />
+        <module name="service-acl-client" />
+        <module name="service-acl" />
+        <module name="service-outbound-client" />
+        <module name="model" />
+        <module name="service-inbound" />
+        <module name="service-inventory" />
+        <module name="server-gateway" />
+        <module name="rabbit-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common" target="1.8" />
+      <module name="common-util" target="1.8" />
+      <module name="model" target="1.8" />
+      <module name="rabbit-util" target="1.8" />
+      <module name="server-gateway" target="1.8" />
+      <module name="service" target="1.8" />
+      <module name="service-acl" target="1.8" />
+      <module name="service-acl-client" target="1.8" />
+      <module name="service-base" target="1.8" />
+      <module name="service-base-client" target="1.8" />
+      <module name="service-client" target="1.8" />
+      <module name="service-inbound" target="1.8" />
+      <module name="service-inventory" target="1.8" />
+      <module name="service-inventory-client" target="1.8" />
+      <module name="service-outbound" target="1.8" />
+      <module name="service-outbound-client" target="1.8" />
+      <module name="service-util" target="1.8" />
+      <module name="spring-security" target="1.8" />
+      <module name="wms-parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="common-util" options="-parameters" />
+      <module name="model" options="-parameters" />
+      <module name="rabbit-util" options="-parameters" />
+      <module name="server-gateway" options="-parameters" />
+      <module name="service-acl" options="-parameters" />
+      <module name="service-acl-client" options="-parameters" />
+      <module name="service-base" options="-parameters" />
+      <module name="service-base-client" options="-parameters" />
+      <module name="service-inbound" options="-parameters" />
+      <module name="service-inventory" options="-parameters" />
+      <module name="service-inventory-client" options="-parameters" />
+      <module name="service-outbound" options="-parameters" />
+      <module name="service-outbound-client" options="-parameters" />
+      <module name="service-util" options="-parameters" />
+      <module name="spring-security" options="-parameters" />
+    </option>
+  </component>
+</project>
